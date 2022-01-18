@@ -16,8 +16,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 5.End the program.
 ~~~
 ## Program
-Program to solve a matrix using Gaussian elimination with partial pivoting.Developed by:palamakula deepika
-RegisterNumber:21003786
+Program to solve a matrix using Gaussian elimination with partial pivoting.Developed by:mudipavan
+RegisterNumber:21003453
 ~~~
 import numpy as np
 import sys
